@@ -1,6 +1,8 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:836FFF&height=200&section=header&text=Tizuey&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descSize=20&descColor=B9A8FF&descAlignY=60&animation=fadeIn" alt="Tizuey" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&&color=0:12B5A5,100:FFF8EE&height=200&section=header&text=Julia%20Tizuey&fontColor=0B6B61&fontSize=64" alt="Tizuey" alt="" />
+
+<!-- =====================<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:836FFF&height=200&section=header&text=Tizuey&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descSize=20&descColor=B9A8FF&descAlignY=60&animation=fadeIn" alt="Tizuey" /><!-- =====================
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=B9A8FF&center=true&vCenter=true&width=640&height=40&lines=Building+secure%2C+cost-aware+cloud+solutions;Turning+real+problems+into+reliable+infrastructure;Always+learning%2C+always+shipping" alt="Typing SVG" />
 
@@ -198,6 +200,6 @@ Ao longo da minha jornada acadêmica, desenvolvi uma verdadeira paixão por Inte
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12B5A5,100:FFF8EE&height=90&section=footer" alt="" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&&color=0:12B5A5,100:FFF8EE&height=200&section=header&text=Julia%20Tizuey&fontColor=0B6B61&fontSize=64" alt="Tizuey" alt="" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:836FFF&height=200&section=header&text=Tizuey&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descSize=20&descColor=B9A8FF&descAlignY=60&animation=fadeIn" alt="Tizuey" />
+
+
