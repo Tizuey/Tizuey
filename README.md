@@ -197,5 +197,7 @@ Ao longo da minha jornada acadêmica, desenvolvi uma verdadeira paixão por Inte
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:12B5A5,100:FFF8EE&height=90&section=footer" alt="" />
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:836FFF&height=200&section=header&text=Tizuey&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descSize=20&descColor=B9A8FF&descAlignY=60&animation=fadeIn" alt="Tizuey" alt="" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&&color=0:12B5A5,100:FFF8EE&height=200&section=header&text=Tizuey&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descSize=20&descColor=B9A8FF&descAlignY=60&animation=fadeIn" alt="Tizuey" alt="" />
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:836FFF&height=200&section=header&text=Tizuey&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descSize=20&descColor=B9A8FF&descAlignY=60&animation=fadeIn" alt="Tizuey" />
