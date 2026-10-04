@@ -1,67 +1,177 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=header"/>
-
+<!-- ===================== HERO ===================== -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=836FFF&size=30&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Tizuey!;Tenho+25+anos;Sou+de+Salvador,+Brasil+🇧🇷;Bem-vindo(a)+ao+meu+perfil!+:%29" alt="Typing SVG" />
-  </a>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:836FFF&height=200&section=header&text=Tizuey&fontColor=FFFFFF&fontSize=64&fontAlignY=38&desc=Cloud%20%E2%80%A2%20AWS%20%E2%80%A2%20DevOps%20%E2%80%A2%20Security%20%E2%80%A2%20AI&descSize=20&descColor=B9A8FF&descAlignY=60&animation=fadeIn" alt="Tizuey" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1500&color=B9A8FF&center=true&vCenter=true&width=640&height=40&lines=Building+secure%2C+cost-aware+cloud+solutions;Turning+real+problems+into+reliable+infrastructure;Always+learning%2C+always+shipping" alt="Typing SVG" />
+
 </div>
 
 <br>
 
-<div align="center">
-  <h3>👩🏻‍💻 Sobre Mim</h3>
-  <p>🎓 Estudante de Ciência da Computação na UNIFACS</p>
-  <p>☁️ Estagiária de Arquitetura Cloud e FinOps na Select Soluções</p>
-  <p>🏆 Certificada em AWS (Cloud Practitioner, SAA-C03, AI Practitioner) e Datadog</p>
-  <p>🌱 A partilhar conhecimentos sobre Cloud Computing, DevOps, IA e Segurança</p>
-</div>
+<!-- ===================== ABOUT ===================== -->
+## 👩‍💻 About
+
+I work with and study **AWS and cloud technologies**, with a growing focus on **security, DevOps and cost optimization (FinOps)**.
+I enjoy turning real-world problems into simple, reliable and well-architected solutions, and I'm currently exploring how **AI can make cloud operations smarter**.
+
+<!-- EDIT: add one line about your current role/company if you want, e.g. "Cloud Engineer at ..." -->
 
 <br>
 
-<div align="center">
-  <h3>🛠️ Tecnologias e Ferramentas</h3>
-  <p>
-    <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-    <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
-  </p>
-</div>
+<!-- ===================== CURRENT FOCUS ===================== -->
+## 🎯 Current Focus
 
-<br>
-
-<div align="center">
-  <h3>📊 Estatísticas do GitHub</h3>
-</div>
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" style="border: none; padding: 5px;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Tizuey&show_icons=true&count_private=true&hide_border=true&title_color=836FFF&icon_color=836FFF&text_color=c9d1d9&bg_color=0d1117" alt="Estatísticas do GitHub" />
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>☁️ AWS Cloud</b><br>
+      <sub>Architecture and day-to-day operations</sub>
     </td>
-    <td align="center" style="border: none; padding: 5px;">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizuey&layout=compact&hide_border=true&title_color=836FFF&text_color=c9d1d9&bg_color=0d1117" alt="Linguagens mais usadas" />
+    <td width="33%" valign="top">
+      <b>🔐 Cloud Security</b><br>
+      <sub>Preparing for the Security Specialty</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>⚙️ DevOps / DevSecOps</b><br>
+      <sub>Automation, CI/CD and secure delivery</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
+      <b>💸 FinOps</b><br>
+      <sub>Cost visibility and optimization</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>☸️ Kubernetes</b><br>
+      <sub>Container orchestration</sub>
+    </td>
+    <td width="33%" valign="top">
+      <b>🤖 AI + Cloud</b><br>
+      <sub>Applied AI on AWS (Bedrock)</sub>
     </td>
   </tr>
 </table>
 
+<br>
+
+<!-- ===================== TECH STACK ===================== -->
+## 🧰 Tech Stack
+
+<table>
+  <tr>
+    <td width="200"><b>Cloud</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonwebservices&logoColor=836FFF" alt="AWS" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=836FFF" alt="Docker" />
+      <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=836FFF" alt="Kubernetes" />
+      <img src="https://img.shields.io/badge/Terraform-0d1117?style=flat-square&logo=terraform&logoColor=836FFF" alt="Terraform" />
+      <img src="https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=836FFF" alt="GitHub Actions" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=836FFF" alt="Python" />
+      <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=836FFF" alt="JavaScript" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>Monitoring &amp; Observability</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/CloudWatch-0d1117?style=flat-square&logo=amazoncloudwatch&logoColor=836FFF" alt="Amazon CloudWatch" />
+      <img src="https://img.shields.io/badge/Datadog-0d1117?style=flat-square&logo=datadog&logoColor=836FFF" alt="Datadog" />
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Amazon_Bedrock-0d1117?style=flat-square&logo=amazonwebservices&logoColor=836FFF" alt="Amazon Bedrock" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ===================== CERTIFICATIONS ===================== -->
+## 🏅 AWS Certifications
+
+| Certification | Status |
+| :--- | :--- |
+| **AWS Certified Cloud Practitioner** | ✅ Certified |
+| **AWS Certified AI Practitioner** | ✅ Certified |
+| **AWS Certified Solutions Architect – Associate** | ✅ Certified |
+| **AWS Certified Security – Specialty** | 📚 In progress |
+
+<!-- EDIT (optional): link your Credly profile -> [View my badges on Credly](https://www.credly.com/users/SEU-USUARIO) -->
+
+<br>
+
+<!-- ===================== FEATURED PROJECTS ===================== -->
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Tizuey/NOME-DO-REPO-1">Project Name 1</a></b><br>
+      <sub>One-line description of what it does and why it matters.</sub><br><br>
+      <code>AWS</code> <code>Terraform</code> <code>Python</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Tizuey/NOME-DO-REPO-2">Project Name 2</a></b><br>
+      <sub>One-line description of what it does and why it matters.</sub><br><br>
+      <code>Docker</code> <code>GitHub Actions</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Tizuey/NOME-DO-REPO-3">Project Name 3</a></b><br>
+      <sub>One-line description of what it does and why it matters.</sub><br><br>
+      <code>Tech 1</code> <code>Tech 2</code>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Tizuey/NOME-DO-REPO-4">Project Name 4</a></b><br>
+      <sub>One-line description of what it does and why it matters.</sub><br><br>
+      <code>Tech 1</code> <code>Tech 2</code>
+    </td>
+  </tr>
+</table>
+
+<!-- EDIT: to add more projects (up to 6), copy a <tr>...</tr> block. Remove the ones you don't use. -->
+
+<br>
+
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+## 📊 GitHub Analytics
+
 <div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Tizuey&bg_color=0d1117&color=c9d1d9&line=836FFF&point=836FFF&area=true&hide_border=true" alt="Gráfico de Atividade" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tizuey&show_icons=true&hide_border=true&title_color=836FFF&icon_color=836FFF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tizuey&layout=compact&hide_border=true&title_color=836FFF&text_color=c9d1d9&bg_color=0d1117&cache_seconds=86400" alt="Top languages" />
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tizuey&theme=dracula&row=1&column=7&no-bg=true&margin-w=15&margin-h=15" alt="Troféus do GitHub" />
+<!-- ===================== CONNECT ===================== -->
+## 🤝 Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=836FFF" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/SEU-USUARIO/">
+    <img src="https://img.shields.io/badge/Instagram-0d1117?style=flat-square&logo=instagram&logoColor=836FFF" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@SEU-CANAL">
+    <img src="https://img.shields.io/badge/YouTube-0d1117?style=flat-square&logo=youtube&logoColor=836FFF" alt="YouTube" />
+  </a>
+  <a href="mailto:SEU-EMAIL@exemplo.com">
+    <img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=836FFF" alt="Email" />
+  </a>
 </p>
 
-<br>
-
-<div align="center">
-  <p style="color: #c9d1d9;"><b>Visitantes</b></p>
-  <img src="https://profile-counter.glitch.me/Tizuey/count.svg" alt="Contador de Visitas" />
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=836FFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:836FFF,100:0d1117&height=100&section=footer" alt="" />
